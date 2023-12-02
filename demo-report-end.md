@@ -29,23 +29,10 @@
 создать в тексте пустую таблицу с заголовком, соответствующим вставленной
 таблице. -->
 
-<!-- # [Список использованных источников]{custom-style="UnnumberedHeadingOne"} {.unnumbered}
+# [Список использованных источников]{custom-style="UnnumberedHeadingOne"} {.unnumbered}
 
 <div id="refs" class="references" custom-style="ReferenceItem">
-</div> -->
-
-# [ПРИЛОЖЕНИЕ\ А<br>**Диаграмма прецедентов, описывающая взаимодействие с системой клиентом коммерческого проекта**]{custom-style="AppendixHeadingOne"} {#sec:app-a label="A"}
-
-![Диаграмма прецедентов, описывающая взаимодействие с системой клиентом коммерческого проекта](Get a blanket IT-Use case для клиентов.png){#fig:umlUseCaseClients height=24.5cm}
-
-# [ПРИЛОЖЕНИЕ\ Б<br>**Диаграмма прецедентов, описывающая взаимодействие с системой специалистом технического обслуживания**]{custom-style="AppendixHeadingOne"} {#sec:app-b label="Б"}
-
-![Диаграмма прецедентов, описывающая взаимодействие с системой специалистом технического обслуживания](Get a blanket IT-Use case для тех. обслуживания.png){#fig:umlUseCaseTechnical height=24.5cm}
-
-# [ПРИЛОЖЕНИЕ\ В<br>**Диаграмма прецедентов, описывающая взаимодействие с системой аналитиком и системным администратором**]{custom-style="AppendixHeadingOne"} {#sec:app-c label="В"}
-
-![Диаграмма прецедентов, описывающая взаимодействие с системой аналитиком и системным администратором](Get a blanket IT-Use case для аналитиков.png){#fig:umlUseCaseAnalytics height=8cm}
-
+</div>
 
 <!-- # [ПРИЛОЖЕНИЕ\ А<br>**Заголовок приложения А**]{custom-style="AppendixHeadingOne"} {#sec:app-a label="A"}
 
