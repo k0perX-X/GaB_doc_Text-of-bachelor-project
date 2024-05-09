@@ -118,7 +118,7 @@ $numberposition = 0,0.75,1.75,3
 $textposition = 0.85,1.75,3,3.5
 $tabposition = 1,1.75,3,3.5
 $format_nested = "%1)","%1.%2)","%1.%2.%3)","%1.%2.%3.%4)"
-$format_headers = "%1","%1.%2","%1.%2.%3","%1.%2.%3.%4"
+$format_headers = "Глава %1.","%1.%2","%1.%2.%3","%1.%2.%3.%4"
 $format_single = "%1)","%2)","%3)","%4)"
 
 write-host "Handling list templates..."
