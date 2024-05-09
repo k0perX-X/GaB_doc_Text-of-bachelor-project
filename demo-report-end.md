@@ -1,6 +1,17 @@
 
 <!-- # [Заключение]{custom-style="UnnumberedHeadingOne"} {.unnumbered} -->
 
+# [Глоссарий]{custom-style="UnnumberedHeadingOne"} {.unnumbered}
+
+|    |     |    |
+|:---|:---:|:---|
+| [ГОСТ]{custom-style="AbbreviationsTable"} | --- | Государственный стандарт |
+| IoT | --- | Internet of things. Интернет вещей. Концепция сети передачи данных между физическими объектами («вещами»), оснащёнными встроенными средствами и технологиями для взаимодействия друг с другом или с внешней средой. |
+| UML | --- | Unified Modeling Language. Стандартный язык графического представления проектов. |
+| ООО | --- | Общество с ограниченной ответственностью. Форма коммерческой организации. |
+| LDAP | --- | Lightweight Directory Access Protocol. Протокол прикладного уровня для доступа к службе каталогов. |
+| NFC  | --- | Near field communication. Технология беспроводной передачи данных малого радиуса действия. |
+
 # [Список использованных источников]{custom-style="UnnumberedHeadingOne"} {.unnumbered}
 
 <div id="refs" class="references" custom-style="ReferenceItem">
@@ -29,3 +40,22 @@ Table: Сроки выполнения основных работ {#tbl:worksca
 <!-- # [ПРИЛОЖЕНИЕ\ А<br>**Финансовая модель проекта "Get a blanket"**]{custom-style="AppendixHeadingOne"} {#sec:fin-model label="A"} -->
 
 <!-- ## [Ненумерованный подзаголовок приложения А]{custom-style="UnnumberedHeadingTwo"} {.unnumbered} -->
+
+
+# [ПРИЛОЖЕНИЕ\ Б<br>**Функционально-стоимостной анализ**]{custom-style="AppendixHeadingOne"} {#sec:FSA label="Б"}
+
+<!-- %INCLUDE(ФСА.docx)% -->
+Представлено в файле _ФСА.docx_.
+
+<!-- TODO Приложения в приложениях, что с ними делать? -->
+<!-- TODO главы из приложения в основном оглавлении -->
+
+# [ПРИЛОЖЕНИЕ\ В<br>**Техническое задание**]{custom-style="AppendixHeadingOne"} {#sec:TZ label="В"}
+
+<!-- %INCLUDE(ТЗ.docx)% -->
+Представлено в файле _ТЗ.docx_.
+
+# [ПРИЛОЖЕНИЕ\ Г<br>**Финансовая модель на 5 лет**]{custom-style="AppendixHeadingOne"} {#sec:finmodel label="Г"}
+
+<!-- %INCLUDE(ТЗ.docx)% -->
+Представлено в файле _Финансовая модель.xlsx_.
